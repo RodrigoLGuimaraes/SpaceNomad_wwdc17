@@ -1,11 +1,8 @@
-# SpaceNomad_wwdc17
+# Space Nomad - An Exploration Game
 WWDC 2017 Scholarship Winner App Space Nomad - Made with Swift Playgrounds
 
 Do not use this software in any commercial product without first contacting the author.
-
-
-# Space Nomad - An Exploration Game
-
+ ---
  This is a simple experience where you control your character around the galaxy and fly through planets.
 
  There is no objective, so enjoy your time!
